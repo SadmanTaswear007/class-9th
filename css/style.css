@@ -1,0 +1,32 @@
+.header{
+min-height: 20px;
+background-color: aqua;
+text-align: center;
+font-size: 40px;
+}
+.container{
+	overflow: hidden;
+
+}
+.blog{
+height: 200px;
+width: 60%;
+color: red;
+float: left;
+}
+.contact{
+height: 200px;
+width: 30%;
+float: right;
+}
+.wrapper{
+	overflow: hidden;
+}
+.youtube{
+	float: left;
+	width: 33.33%;
+}
+.footer{
+	min-height: 20px;
+	background-color: lightcyan;
+}
